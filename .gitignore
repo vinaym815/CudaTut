@@ -1,10 +1,12 @@
-Project/
 .vscode/
 Slides/
+Project/
 
-Notebook1/.ipynb_checkpoints/
-Notebook2/.ipynb_checkpoints/
-Notebook3/.ipynb_checkpoints/
+*.sqlite
+*.nsys-rep
+
+*/.ipynb_checkpoints/
+
 Notebook1/add-error-handling
 Notebook1/double-elements
 Notebook1/first-parallel
@@ -17,3 +19,6 @@ Notebook1/multi-block-loop
 Notebook1/single-block-loop
 Notebook1/thread-and-block-idx
 Notebook1/vector-add
+Notebook2/iteratively-optimized-vector-add
+Notebook2/multi-thread-vector-add
+Notebook2/single-thread-vector-add
