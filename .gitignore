@@ -1,10 +1,7 @@
 Project/
 .vscode/
-Slides/merged_pdf.pdf
-Slides/merged_bill.pdf
-Notebook1/.ipynb_checkpoints/
-Notebook1/double-elements
-Notebook1/first-parallel
-Notebook1/hello-gpu
+Slides/
 
+Notebook1/.ipynb_checkpoints/
 Notebook2/.ipynb_checkpoints/
+Notebook3/.ipynb_checkpoints/
