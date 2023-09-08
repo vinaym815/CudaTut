@@ -5,3 +5,15 @@ Slides/
 Notebook1/.ipynb_checkpoints/
 Notebook2/.ipynb_checkpoints/
 Notebook3/.ipynb_checkpoints/
+Notebook1/add-error-handling
+Notebook1/double-elements
+Notebook1/first-parallel
+Notebook1/grid-stride-double
+Notebook1/heat-conduction
+Notebook1/hello-gpu
+Notebook1/matrix-multiply-2d
+Notebook1/mismatched-config-loop
+Notebook1/multi-block-loop
+Notebook1/single-block-loop
+Notebook1/thread-and-block-idx
+Notebook1/vector-add
