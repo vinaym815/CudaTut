@@ -22,3 +22,12 @@ Notebook1/vector-add
 Notebook2/iteratively-optimized-vector-add
 Notebook2/multi-thread-vector-add
 Notebook2/single-thread-vector-add
+Notebook2/saxpy
+Notebook3/prefetch-to-host
+Notebook3/print-numbers
+Notebook3/vector-add-manual-alloc
+Notebook3/vector-add-prefetch
+Notebook3/vector-add-no-prefetch
+Notebook3/init-kernel
+Notebook3/init-in-streams
+Notebook3/print-numbers-in-streams
